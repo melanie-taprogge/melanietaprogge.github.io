@@ -1,27 +1,21 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-clickable-email: false
-picture: img/profile.png
-picture-round: false
+title: Melanie Taprogge's webpage
+author: Melanie Taprogge
+shortbio: PhD student in computer science
+description-meta: PhD student in computer science
+og-url: https://melanietaprogge.github.io
+location: Deducteam, LMF, ENS Paris-Saclay
+email: melanie.taprogge@stud.uni-greifswald.de
+clickable-email: true
+picture: img/me.jpg
+picture-round: true
 side-by-side: true
-pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
+og-picture: https://basicpage.github.io/img/me.jpg
+orcid: 0009-0008-1906-6831
+dblp: https://dblp.org/pid/357/0643.html
+scholar: https://scholar.google.com/citations?hl=en&user=DmcuD8sAAAAJ
 hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+github: https://github.com/melanie-taprogge
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),

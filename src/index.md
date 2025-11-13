@@ -37,7 +37,7 @@ My main research interests are automated reasoning in higher-order logic and its
 "year": "2023",
 "url": "https://link.springer.com/chapter/10.1007/978-3-031-42608-7_18",
 "files": [
-  { "text": "Bibtex", "type": "bib", "src": "ki23.bib" }
+  { "text": "Bibtex", "type": "bib", "src": "files/bibRefs/ki23.bib" }
 ]
 ```
 
@@ -50,7 +50,7 @@ My main research interests are automated reasoning in higher-order logic and its
 "url": "https://academic.oup.com/jeb/article/37/8/926/7692848",
 "year": "2024",
 "files": [
-  { "text": "Bibtex", "type": "bib", "src": "evo24.bib" }
+  { "text": "Bibtex", "type": "bib", "src": "files/bibRefs/evo24.bib" }
 ]
 ```
 
@@ -63,7 +63,7 @@ My main research interests are automated reasoning in higher-order logic and its
 "url": "https://inria.hal.science/hal-04733263/",
 "year": "2024",
 "files": [
-  { "text": "Bibtex", "type": "bib", "src": "master.bib" }
+  { "text": "Bibtex", "type": "bib", "src": "files/bibRefs/master.bib" }
 ]
 ```
 
@@ -75,17 +75,14 @@ My main research interests are automated reasoning in higher-order logic and its
   "title": "Encoding and Verifying Leo-III Proofs in the Dedukti Framework",
   "year": "September 2025",
   "url": "https://www.youtube.com/watch?v=cH2B3UQ2wFg&list=PLaT9F1eDUuN35otNw390wa-Lx_MCO6izM&index=2",
-  "venue": "Final EuroProofNet Symposium, WG2 Workshop",
-  "files": [
-    { "text": "Slides", "type": "pdf", "src": "epnSymp25Slides.pdf" }
-  ]
+  "venue": "Final EuroProofNet Symposium, WG2 Workshop"
 },
 {
   "title": "Flexible Automation of Quantified Multi-Modal Logics with Interactions",
   "year": "September 2023",
   "venue": "German Conference on Artificial Intelligence (Künstliche Intelligenz)",
   "files": [
-    { "text": "Slides", "type": "pdf", "src": "kiSlides.pdf" }
+    { "text": "Slides", "type": "pdf", "src": "files/slides/kiSlides.pdf" }
   ]
 }
 ```
@@ -113,6 +110,3 @@ My main research interests are automated reasoning in higher-order logic and its
 - **Since 2024**: Doctoral Scholarship *Landesgraduiertenförderung Mecklenburg-Vorpommern*
 - **2023**: FB-KI Travel Grant *German Informatics Society*
 - **2020 - 2024**: *Max Weber-Programm Bayern*
-
-
-
